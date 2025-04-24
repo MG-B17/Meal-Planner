@@ -1,8 +1,12 @@
-# mealplanner
+# Meal Planner App 🍽️
 
-A new Flutter project.
 
-## Screenshot
+## Description
+An intuitive meal planner app designed to simplify your daily cooking and enhance culinary experiences. Powered by Gemini AI for personalized recommendations.
+
+
+
+## 📱 Screenshot
 ![Image](https://github.com/user-attachments/assets/5634c53d-2bcf-48e2-b8bc-af14ffd08482)
 ![Image](https://github.com/user-attachments/assets/96fdb3e0-f247-43fb-a23c-b4109c85ddf5)
 ![Image](https://github.com/user-attachments/assets/2af0db90-11ff-4eaa-9f24-cad2e5bc2dc8)
@@ -18,17 +22,48 @@ A new Flutter project.
 ![Image](https://github.com/user-attachments/assets/fdb8568a-9c63-4910-8d15-f89796f4d77c)
 
 
+## 🚀 Features
+- Customizable meal plans.
+- Suggested meals based on dietary preferences.
+- Favorites section to save recipes.
+- Gemini Chat for meal recommendations.
+- Search functionality for recipes.
+
+
+## 🔨 Technologies Used
+
+| **Aspect**             | **Details**                              |
+|------------------------|------------------------------------------|
+| **Framework**          | Flutter                                  |
+| **State Management**   | Bloc                                     |
+| **Architecture**       | Clean Architecture (MVVM, Feature-Based) |
+| **API Handling**       | Dio                                      |
+
+
+## 🏡 Getting Started
+
+### Prerequisites
+Before you begin, ensure you have the following installed:
+- **Flutter SDK**: To build and run your Flutter applications.
+- **Dart SDK**: Included with Flutter, used for programming.
+- **Android Studio** or **VS Code**: Recommended IDEs for Flutter development.
+
+
+## 🛠️ Installation
+
+Follow these steps to set up the project locally:
+
+1. **Clone the Repository**
+   ```bash
+   git clone https://github.com/MG-B17/Meal-Planner
+2. Install Dependencies Run the following command to install all necessary Flutter dependencies:
+   ```bash
+   flutter pub get
+3. Run the App Launch the application using:
+   ```bash
+   flutter run
 
 
 
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+   
