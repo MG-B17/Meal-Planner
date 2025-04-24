@@ -1,10 +1,11 @@
 # Meal Planner App 🍽️
 
 
-## Description
+## 📜 Description
 An intuitive meal planner app designed to simplify your daily cooking and enhance culinary experiences. Powered by Gemini AI for personalized recommendations.
 
-
+## 🎦 Video Demonstration
+🎥 **Watch App Demo** 
 
 ## 📱 Screenshot
 ![Image](https://github.com/user-attachments/assets/5634c53d-2bcf-48e2-b8bc-af14ffd08482)
