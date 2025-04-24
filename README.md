@@ -36,7 +36,7 @@ An intuitive meal planner app designed to simplify your daily cooking and enhanc
 | **Aspect**             | **Details**                              |
 |------------------------|------------------------------------------|
 | **Framework**          | Flutter                                  |
-| **State Management**   | Bloc                                     |
+| **State Management**   | Cubit                                    |
 | **Architecture**       | Clean Architecture (MVVM, Feature-Based) |
 | **API Handling**       | Dio                                      |
 
