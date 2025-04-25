@@ -5,7 +5,7 @@
 An intuitive meal planner app designed to simplify your daily cooking and enhance culinary experiences. Powered by Gemini AI for personalized recommendations.
 
 ## 🎦 Video Demonstration
-🎥 **Watch App Demo** 
+🎥 [Watch App Demo](https://www.linkedin.com/posts/mostafa-galal-17-n_flutter-mealplanning-techinnovation-activity-7321127355035381760-p7iy?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFVnLiUBOzIS2YcbSJ9Dv1tz8wJKu0EsvVo)
 
 ## 📱 Screenshot
 ![Image](https://github.com/user-attachments/assets/5634c53d-2bcf-48e2-b8bc-af14ffd08482)
